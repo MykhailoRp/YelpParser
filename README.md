@@ -19,3 +19,5 @@ Provide location and category name in specified fields and set thread number.
 The script will run until completion or ban by the server.
 
 Results will be saved to "LOCATION CATEGORY_NAME_results.json" file.
+
+*NYC Restaurants_results.json is an example of a resulting json*
